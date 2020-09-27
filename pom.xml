@@ -29,7 +29,7 @@ under the License.
   </parent>
 
   <artifactId>maven-compiler-plugin</artifactId>
-  <version>3.9.0-SNAPSHOT-SNYK-FIX</version>
+  <version>3.9.0-SNAPSHOT-VULN-PATCH</version>
   <packaging>maven-plugin</packaging>
 
   <name>Apache Maven Compiler Plugin</name>
